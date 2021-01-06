@@ -43,7 +43,7 @@ Author URI: http://www.xpeedstudio.com
 	}
 
 	.navbar {
-		padding: 1rem 1rem 1.5rem;
+		padding: 1rem 1rem 2.8rem;
 	}
 
 }
@@ -54,7 +54,7 @@ Author URI: http://www.xpeedstudio.com
 
 @media (max-width: 768px) {
 	.navbar {
-		padding: 1rem 1rem 1.5rem;
+		padding: 1rem 1rem 2.8rem;
 	}
 	h2 {
 		font-size: 2rem;
@@ -106,7 +106,7 @@ Author URI: http://www.xpeedstudio.com
 		display: none;
 	}
 	.navbar {
-		padding: 1rem 1rem 1.5rem;
+		padding: 1rem 1rem 2.8rem;
 	}
 
 }

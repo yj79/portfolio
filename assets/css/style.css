@@ -1415,7 +1415,7 @@ Featured section style
 .featured_slider {
     width: 100%;
     height: 250px;
-    margin: 20px auto 300px;
+    margin: 20px auto 15rem;
     text-align: center;
 }
 
@@ -1434,9 +1434,7 @@ Featured section style
 
 .slick-center {
     display: block;
-    max-width: 10% !important;
-    max-height: 20% !important;
-    opacity: 1;
+       opacity: 1;
 
 
 }
@@ -1514,7 +1512,6 @@ Portfolio section style
 }
 
 .portfolio_item {
-    display: flex;
     flex-basis: 100%;
     flex-wrap: wrap;
     position: relative;
@@ -1564,7 +1561,7 @@ Portfolio section style
 }
 
 .portfolio_item3 .portfolio_hover {
-    padding-top: 19%;
+    padding-top: 25%;
 }
 
 .home_btns,
@@ -2109,15 +2106,15 @@ Footer Section style
     top: 0;
     margin-top: -10px;
 }
-@media (max-width: 1920px{
-    
+@media (max-width: 1919px){
+    .home{background-position: center bottom}
 }
 
 @media (max-width: 1023px) {
     nav.navbar.bootsnav ul.nav > li > a {
         font-weight: 600;
     }
-    .logo logo-display{display: none}
+    
 
     .navbar-expand-lg .navbar-nav > li {
         margin-left: 30px;
