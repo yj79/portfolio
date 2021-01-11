@@ -871,9 +871,9 @@ Home Section style
 
 .main_home {
     overflow: hidden;
-    padding-top: 400px;
-    padding-bottom: 300px;
-    margin-left: 80px;
+    padding-top: 380px;
+    padding-bottom: 340px;
+    margin-left: 60px;
     position: relative;
     z-index: 1;
 }
@@ -1784,8 +1784,8 @@ Footer Section style
     .home{background-position: center center}
     
 }
-@media (max-width: 1199px){
-    .main_home{margin-left: 0}
+@media (max-width: 1279px){
+    .main_home{margin-left: -50}
 }
 
 @media (max-width: 1023px) {
@@ -1843,4 +1843,5 @@ Footer Section style
         padding-top: 4%;
         
     }
+    .featured_slider{height: 150px}
 }
